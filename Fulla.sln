@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FullaApi", "FullaApi\FullaApi.csproj", "{D862E93F-F300-4F5A-A886-D4E7D40E7A7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FullaApiTest", "FullaApiTest\FullaApiTest.csproj", "{7ED51B0C-4767-4658-AA46-DE7E187A118C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D862E93F-F300-4F5A-A886-D4E7D40E7A7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D862E93F-F300-4F5A-A886-D4E7D40E7A7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D862E93F-F300-4F5A-A886-D4E7D40E7A7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D862E93F-F300-4F5A-A886-D4E7D40E7A7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ED51B0C-4767-4658-AA46-DE7E187A118C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ED51B0C-4767-4658-AA46-DE7E187A118C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ED51B0C-4767-4658-AA46-DE7E187A118C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ED51B0C-4767-4658-AA46-DE7E187A118C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
